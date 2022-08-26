@@ -1,7 +1,7 @@
 # Module 10 - SQLAlchemy Challenge
 ## Summary
 - I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with the trip planning, I decided to do a climate analysis about the area.
-![surfs up](/Images/hawaii.jpg)
+![surfs up](/Images/Hawaii.JPG)
 ## Data Modeling
 ![ERD](erd.gif)
 ## Data Engineering
