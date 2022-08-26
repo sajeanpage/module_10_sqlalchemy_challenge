@@ -1,7 +1,7 @@
 # Module 10 - SQLAlchemy Challenge
 ## Summary
 - I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with the trip planning, I decided to do a climate analysis about the area.
-- 
+![surfs up](/Images/hawaii.jpg)
 ## Data Modeling
 ![ERD](erd.gif)
 ## Data Engineering
@@ -25,6 +25,5 @@
   - [DA7_Employee_Sales_and_Dev_Dept](/EmployeeSQL/queries/DA7_Employee_Sales_and_Dev_Dept.sql)
   - [DA8_Employee_Last_Name_Freq](/EmployeeSQL/queries/DA8_Employee_Last_Name_Freq.sql)
 ## Bonus
-![b1_full_histogram](/Bonus/b1_full_histogram.png)
 ![b4_histogram_exclude_40000](/Bonus/b4_histogram_exclude_40000.png)
 ![b5_average_salary](/Bonus/b5_average_salary.png)
