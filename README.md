@@ -1,7 +1,7 @@
 # Module 10 - SQLAlchemy Challenge
 ## Summary
-- As a new data engineer at Pewlett Hackard. I was asked to do a research project about people whom the company employed during the 1980s and 1990s from the six remaining CSV files from the employee database of that period.  I performed data modeling, data engineering, and data analysis on the data.
-- But, there was something unusual about the data.  A series of narrowing histograms revealed a high concentration of salaries that are exactly 40000 USD.  When excluded, the distributions of salaries appears natural.  Maybe, my boss gave me spurious data to test the data engineering skills?
+- I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with the trip planning, I decided to do a climate analysis about the area.
+- 
 ## Data Modeling
 ![ERD](erd.gif)
 ## Data Engineering
